@@ -1,2 +1,4 @@
-package org.example.calories.service;public class MealPlanService {
+package org.example.calories.service;
+
+public class MealPlanService {
 }
