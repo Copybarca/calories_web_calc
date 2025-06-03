@@ -16,4 +16,6 @@ public interface MealPlanRepository extends CrudRepository<MealPlan,Integer> {
 
     @Override
     void deleteById(Integer integer);
+
 }
+
